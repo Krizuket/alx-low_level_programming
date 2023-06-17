@@ -2,7 +2,7 @@ nclude <stdio.h>
 
 
 /**
- * main -prints the size of various typesa base on
+ * main - prints the size of various typesa base on
  * the computer it is compiled and run on..
  * Return: Always 0.
  */
